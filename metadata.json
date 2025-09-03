@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of PayPilot - AI Payment Assistant",
+  "description": "An intelligent assistant for creating invoices and managing payments, powered by the Gemini API.",
+  "requestFramePermissions": [
+    "microphone",
+    "display-capture"
+  ]
+}
